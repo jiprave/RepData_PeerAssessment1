@@ -345,3 +345,5 @@ summary(aov(mean.day.inter2$steps.mean~mean.day.inter2$type.day+
 ```r
 #Response: Considering the panel plot and the others results, there is differences between weekdays and weekends.
 ```
+
+&nbsp;
